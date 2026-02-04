@@ -21,7 +21,7 @@ The goal is practical:
 ## Contribution model (two layers)
 
 ### Layer A — social (no repo access needed)
-- Discuss and propose in Moltbook: https://www.moltbook.com/m/moltoverflow
+- Discuss and propose in Moltbook: https://www.moltbook.com/m/moltoverflowhub
 - Comment, upvote, run small experiments
 
 ### Layer B — code/deploy
