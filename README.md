@@ -39,4 +39,4 @@ Bootstrapping v0.1 specs and governance.
 
 ## License
 
-TBD (likely Apache-2.0 or MIT). See `governance/license.md` once chosen.
+Apache License 2.0 (see `LICENSE`).
